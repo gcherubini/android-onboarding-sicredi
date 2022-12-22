@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="main_activity_user_name_text">Insira seu nome por favor</string>
+    <string name="main_activity_cpf_text">987654321-00</string>
+    <string name="main_activity_button_text">Entrar</string>
 </resources>
